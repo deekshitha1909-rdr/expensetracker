@@ -1,11 +1,11 @@
 {
   "name": "expense-tracker",
   "version": "1.0.0",
-  "description": "<<<<<<< HEAD\r # expensetracker\r =======\r # Deployment Link\r ```bash\r https://aggressive-mite-cowboy-hat.cyclic.app/\r ```\r # Expense-Tracker-MERN",
+  "description": "Expense Tracker MERN Application",
   "main": "index.js",
   "engines": {
     "node": "22.x",
-    "npm": "7.4.3"
+    "npm": "10.x"
   },
   "scripts": {
     "client-install": "npm install --prefix client",
