@@ -1,7 +1,7 @@
 {
   "name": "expense-tracker",
   "version": "1.0.0",
-  "description": "",
+  "description": "<<<<<<< HEAD\r # expensetracker\r =======\r # Deployment Link\r ```bash\r https://aggressive-mite-cowboy-hat.cyclic.app/\r ```\r # Expense-Tracker-MERN",
   "main": "index.js",
   "engines": {
     "node": "22.x",
@@ -23,5 +23,15 @@
     "moment": "^2.29.3",
     "mongoose": "^6.3.1",
     "nodemon": "^2.0.16"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deekshitha1909-rdr/expensetracker.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/deekshitha1909-rdr/expensetracker/issues"
+  },
+  "homepage": "https://github.com/deekshitha1909-rdr/expensetracker#readme"
 }
